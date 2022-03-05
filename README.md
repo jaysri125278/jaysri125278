@@ -6,3 +6,4 @@
 - 🌱 I’m currently learning deep learning
 - 📫 jaysrisaravanan95@gmail.com
 - ⚡ Here are some of the projects that I had worked on with no idea why I am doing this
+- 😇 Follow me on medium: https://medium.com/@jaysrisaravanan
