@@ -13,9 +13,12 @@
 - **Statistics**
 - **Data Visualization:** Power BI, Tableau
 
-- 🚀 Check out my portfolio: [jaysri125278.github.io](https://jaysri125278.github.io/)
-- 🔗 Connect with me on LinkedIn: [jaysri-saravanan](https://www.linkedin.com/in/jaysri-saravanan/)
-- 📫 Email: jaysrisaravanan95@gmail.com
-- 📝 Follow me on Medium: [@jaysrisaravanan](https://medium.com/@jaysrisaravanan)
+🚀 Check out my portfolio: [jaysri125278.github.io](https://jaysri125278.github.io/)
+
+🔗 Connect with me on LinkedIn: [jaysri-saravanan](https://www.linkedin.com/in/jaysri-saravanan/)
+
+📫 Email: jaysrisaravanan95@gmail.com
+
+📝 Follow me on Medium: [@jaysrisaravanan](https://medium.com/@jaysrisaravanan)
 
 Thanks for stopping by! 😊
