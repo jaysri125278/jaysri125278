@@ -13,6 +13,8 @@
 - **Statistics**
 - **Data Visualization:** Power BI, Tableau
 
+- 🎓 Completed B.Tech in IT from SRM Valliammai Engineering College, 2023
+- 💼 Full Stack Developer at Accenture, Coimbatore
 - 🚀 Check out my portfolio: [jaysri125278.github.io](https://jaysri125278.github.io/)
 - 🔗 Connect with me on LinkedIn: [jaysri-saravanan](https://www.linkedin.com/in/jaysri-saravanan/)
 - 📫 Email: jaysrisaravanan95@gmail.com
