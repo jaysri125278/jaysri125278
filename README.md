@@ -19,7 +19,7 @@
 
 📫 Email: jaysrisaravanan95@gmail.com
 
-📝 Follow me on Medium: [@jaysrisaravanan](https://medium.com/@jaysrisaravanan)
+📝 Check out my blogs on Medium: [@jaysrisaravanan](https://medium.com/@jaysrisaravanan)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaysri125278)](https://git.io/streak-stats)
 
