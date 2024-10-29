@@ -23,7 +23,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaysri125278)](https://git.io/streak-stats)
 
-# My Stats
+## My Stats
 
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Score-4caf50)](https://www.hackerrank.com/profile/saravananjaysri)
 
