@@ -21,7 +21,7 @@
 
 📝 Check out my blogs on Medium: [@jaysrisaravanan](https://medium.com/@jaysrisaravanan)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaysri125278)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaysri125278&mode=weekly)](https://git.io/streak-stats)
 
 ## My Stats
 
